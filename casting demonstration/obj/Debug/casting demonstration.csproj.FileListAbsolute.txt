@@ -25,3 +25,6 @@ D:\Visual Studio 2013\visual programming 1\casting demonstration\casting demonst
 D:\Visual Studio 2013\visual programming 1\casting demonstration\casting demonstration\obj\Debug\casting_demonstration.Form1.resources
 D:\Visual Studio 2013\visual programming 1\casting demonstration\casting demonstration\obj\Debug\casting_demonstration.Properties.Resources.resources
 D:\Visual Studio 2013\visual programming 1\casting demonstration\casting demonstration\obj\Debug\casting demonstration.csproj.GenerateResource.Cache
+C:\Users\En\Desktop\repos\Personal\casting-demo\casting demonstration\bin\Debug\casting demonstration.exe.config
+C:\Users\En\Desktop\repos\Personal\casting-demo\casting demonstration\obj\Debug\casting demonstration.exe
+C:\Users\En\Desktop\repos\Personal\casting-demo\casting demonstration\obj\Debug\casting demonstration.pdb

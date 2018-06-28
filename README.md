@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+# casting-demo
+
+---
+
+### Description: This is a short little program I wrote to help demonstrate to a class-mate how casting in C# works.
+
+---
+
+![casting-form]()
+
+```c#
 
 namespace casting_demonstration
 {
@@ -62,3 +64,4 @@ namespace casting_demonstration
 
     }
 }
+```
